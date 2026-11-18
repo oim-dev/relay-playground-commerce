@@ -1,0 +1,14 @@
+{
+  "application_id": null,
+  "created_at": "2026-11-18T11:31:47.906Z",
+  "created_by": "system",
+  "description": null,
+  "description_json": null,
+  "id": "63f20203-0a74-4988-9422-bc12125e0fe4",
+  "name": "Продукт",
+  "name_json": null,
+  "prefix": "PRODUCT",
+  "slug": "product",
+  "updated_at": "2026-11-18T11:31:47.906Z",
+  "updated_by": "system"
+}

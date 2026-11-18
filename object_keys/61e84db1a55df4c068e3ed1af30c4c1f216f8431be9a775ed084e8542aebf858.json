@@ -1,0 +1,10 @@
+{
+  "deleted": 0,
+  "id": "allocated:[\"b5c02371b216bb8888fdecc399f287f6afc1c1337888b33d3c674254ea9b7c66\",\"ddabeb29-fef6-4edc-af38-73c01c43cc91\",\"address-assignment\",\"ddabeb29-fef6-4edc-af38-73c01c43cc91\"]",
+  "is_current": 0,
+  "owner_id": "ddabeb29-fef6-4edc-af38-73c01c43cc91",
+  "parents_json": "[]",
+  "position": "V",
+  "ref": "ddabeb29-fef6-4edc-af38-73c01c43cc91",
+  "version": "7d9125e97a547a9e75c5a503647604333e0f95176106e06396d048cfac58e47a"
+}
