@@ -1,0 +1,5 @@
+{
+  "operation_key": "29661815-8f49-47c0-b1c5-125d13a8e18a",
+  "request_json": "{\"actor\":\"gromov\",\"input\":{\"operations\":[{\"ifRevision\":1,\"input\":{\"description\":\"ыва 123123\",\"name\":\"ыва\",\"summary\":\"аыв\"},\"op\":\"feature.update\",\"ref\":\"037c2556-dc6c-4aca-bd85-7f27b474c80a\"}],\"version\":1}}",
+  "result_json": "{\"operationKey\":\"29661815-8f49-47c0-b1c5-125d13a8e18a\",\"status\":\"committed\",\"replayed\":false,\"items\":[{\"id\":\"037c2556-dc6c-4aca-bd85-7f27b474c80a\",\"kind\":\"feature\",\"key\":\"FEATURE-1\",\"revision\":2,\"index\":0,\"op\":\"feature.update\",\"as\":null,\"owner\":{\"id\":\"037c2556-dc6c-4aca-bd85-7f27b474c80a\",\"kind\":\"feature\",\"key\":\"FEATURE-1\",\"revision\":2},\"outputs\":[]}],\"entities\":[{\"id\":\"037c2556-dc6c-4aca-bd85-7f27b474c80a\",\"kind\":\"feature\",\"key\":\"FEATURE-1\",\"revision\":2,\"createdAt\":\"2026-11-19T07:28:07.492Z\",\"updatedAt\":\"2026-11-19T07:29:55.628Z\",\"createdBy\":\"gromov\",\"updatedBy\":\"gromov\",\"data\":{\"name\":\"ыва\",\"summary\":\"аыв\",\"description\":\"ыва 123123\"}}]}"
+}
